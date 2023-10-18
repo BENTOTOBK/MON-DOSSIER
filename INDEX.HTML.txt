@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>bonjour le monde ! </html>
+<body>
+<h1> c'est ma première application ! </h1>
+<! - ceci est un commentaire ->
+</body>
+</html>
